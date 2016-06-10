@@ -1,0 +1,25 @@
+#container {
+  position: relative;
+  top: 30px;
+  outline: 2px solid #000;
+  font-size: 0;
+  margin: auto;
+  height: 1080px;
+  width: 1080px;
+  padding: 0;
+  border: solid;
+}
+
+.grid {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: 1px solid #000;
+  display: inline-block;
+}
+
+.newgrid {
+  top: 25px;
+  left: 500px;
+  position: relative;
+}
